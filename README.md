@@ -1,18 +1,24 @@
-# Bankist Landing Page
+# Bankist - Landing Page
 
-An interactive banking landing page built with HTML, CSS, and vanilla JavaScript. Features smooth scrolling, sticky navigation, tabbed sections, a slider, and lazy-loading images.
+The marketing page of a fictional bank: smooth scrolling, a sticky header, tabbed features, a testimonial slider and lazy-loaded images. This is only the landing page; the banking app itself is in [Bankist-Project](https://github.com/mhmd7710d/Bankist-Project).
+
+**See it:** https://mhmd7710d.github.io/UI-for-Bank-Site-/
+
+![Preview](preview.jpg)
+
+## What you can try
+- Scroll down: each section fades in and the navigation stays on top.
+- Click the Features and Operations tabs to switch the content.
+- Move through the testimonial slider with the arrow buttons.
 
 ## Built with
-HTML, CSS and JavaScript.
+HTML, CSS and vanilla JavaScript. Intersection Observer for the scroll effects, native lazy loading for the images.
 
-## How to run
-Open the live demo, or download this repository and open index.html in a browser.
+## What I practised
+DOM selection and events, the Intersection Observer API, tab and slider logic, and CSS transitions.
 
-Live demo: https://mhmd7710d.github.io/UI-for-Bank-Site-/
-
-## Features
-- Smooth scrolling and a sticky navigation bar (Intersection Observer API).
-- Tabbed sections, testimonial slider and lazy-loading images.
+## Run it locally
+Download the repository and open `index.html` in a browser.
 
 ## Credits
 Original project from Jonas Schmedtmann's Complete JavaScript Course, all copyright to Jonas Schmedtmann. Personalized by Mohamed Fathy.
