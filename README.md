@@ -21,7 +21,7 @@ DOM selection and events, the Intersection Observer API, tab and slider logic, a
 Download the repository and open `index.html` in a browser.
 
 ## Credits
-Original project from Jonas Schmedtmann's Complete JavaScript Course, all copyright to Jonas Schmedtmann. Personalized by Mohamed Fathy.
+Original project from Jonas Schmedtmann's Complete JavaScript Course, all copyright to Jonas Schmedtmann. Personalized by Mohammad Fathi.
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/muhammad-fathi-b7a693424/
@@ -29,4 +29,4 @@ Original project from Jonas Schmedtmann's Complete JavaScript Course, all copyri
 - Facebook: https://www.facebook.com/share/1CQhxpCeYL/
 - Instagram: https://www.instagram.com/mhmd7710d/
 - Email: muhammutfathi@gmail.com
-- WhatsApp: https://wa.me/201040428475?text=Hi+Mohamed%2C+I+found+your+project+on+GitHub.
+- WhatsApp: https://wa.me/201040428475?text=Hi+Mohammad%2C+I+found+your+project+on+GitHub.
